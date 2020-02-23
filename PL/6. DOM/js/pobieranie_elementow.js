@@ -28,6 +28,7 @@ const author = document.createElement("h2");
 author.textContent = comment.author;
 
 idComments.appendChild(author);
+console.log(idComments);
 
 const spanDate = document.createElement('span');
 spanDate.textContent = comment.date;
@@ -36,7 +37,6 @@ idComments.appendChild(spanDate);
 const paragrafMsg = document.createElement("p");
 paragrafMsg.textContent = comment.msg;
 idComments.appendChild(paragrafMsg);
-
 
 
 let comments = [
@@ -69,19 +69,22 @@ let comments = [
 
 comments.forEach(el => {
 
-    const author = document.createElement("h2");
-    author.textContent = el.author;
+    const {author, date, msg} = el;
 
-    idComments.appendChild(author);
+    const h2 = document.createElement("h2");
+    h2.textContent = author;
+    idComments.appendChild(h2);
 
     const spanDate = document.createElement('span');
-    spanDate.textContent = el.date;
+    spanDate.textContent = date;
     idComments.appendChild(spanDate);
 
     const paragrafMsg = document.createElement("p");
-    paragrafMsg.textContent = el.msg;
+    paragrafMsg.textContent = msg;
     idComments.appendChild(paragrafMsg);
 });
+
+
 
 
 

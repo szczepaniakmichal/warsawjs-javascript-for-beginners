@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ea97587-0ed9-46c9-8192-a1e9fb2c6691" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/PL/2. Warunki/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/PL/2. Warunki/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PL/2. Warunki/js/zadanie1.js" beforeDir="false" afterPath="$PROJECT_DIR$/PL/2. Warunki/js/zadanie1.js" afterDir="false" />
+    <list default="true" id="4ea97587-0ed9-46c9-8192-a1e9fb2c6691" name="Default Changelist" comment="loops">
+      <change afterPath="$PROJECT_DIR$/PL/7. Magiczny projekt/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PL/6. DOM/js/pobieranie_elementow.js" beforeDir="false" afterPath="$PROJECT_DIR$/PL/6. DOM/js/pobieranie_elementow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PL/7. Magiczny projekt/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/PL/7. Magiczny projekt/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +17,13 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -54,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582451550988</updated>
-      <workItem from="1582451552464" duration="4244000" />
+      <workItem from="1582451552464" duration="17871000" />
     </task>
     <task id="LOCAL-00001" summary="variable">
       <created>1582453117012</created>
@@ -63,7 +72,49 @@
       <option name="project" value="LOCAL" />
       <updated>1582453117012</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="conditions + something">
+      <created>1582457508970</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582457508970</updated>
+    </task>
+    <task id="LOCAL-00003" summary="gitignore">
+      <created>1582458169928</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582458169928</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Array">
+      <created>1582458197744</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1582458197744</updated>
+    </task>
+    <task id="LOCAL-00005" summary="loops">
+      <created>1582462063160</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1582462063160</updated>
+    </task>
+    <task id="LOCAL-00006" summary="object">
+      <created>1582467654146</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1582467654146</updated>
+    </task>
+    <task id="LOCAL-00007" summary="DOM">
+      <created>1582471877714</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1582471877714</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,6 +133,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="variable" />
-    <option name="LAST_COMMIT_MESSAGE" value="variable" />
+    <MESSAGE value="conditions + something" />
+    <MESSAGE value="gitignore" />
+    <MESSAGE value="Array" />
+    <MESSAGE value="loops" />
+    <MESSAGE value="object" />
+    <MESSAGE value="DOM" />
+    <option name="LAST_COMMIT_MESSAGE" value="DOM" />
   </component>
 </project>
